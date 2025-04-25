@@ -135,6 +135,11 @@ hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "deb2af943ebcceb5b2d5d50c1c50b9d5921d75d30170dfe1f019a9c1e596ef60"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
