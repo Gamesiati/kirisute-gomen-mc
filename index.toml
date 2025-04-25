@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
+hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
 metafile = true
 
 [[files]]
