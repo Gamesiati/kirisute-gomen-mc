@@ -1,13 +1,13 @@
 name = "Crops Love Rain"
-filename = "Crops-Love-Rain-2.4.1.jar"
+filename = "Crops-Love-Rain-2.4.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/cRci7UZp/versions/JT0fNDm0/Crops-Love-Rain-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/cOzf5FGy/Crops-Love-Rain-2.4.2.jar"
 hash-format = "sha512"
-hash = "4a3368ba8780aabb2ce355465dff372ac14e746205415400d6ebef0e880fd83e8a198b7679f9ae9ce18dffb605c8a8985091ee91b69e86f8d8c301eedfe304e5"
+hash = "0a334c30ef11bc126ae6dc58225a81b00d5f4e6cdbb0d4242e6929935b6eb65d5a9a7ddef435d05b0b691d1beba74f0cfbad6c63ec79e8518f4fcb3455fc8aa8"
 
 [update]
 [update.modrinth]
 mod-id = "cRci7UZp"
-version = "JT0fNDm0"
+version = "cOzf5FGy"

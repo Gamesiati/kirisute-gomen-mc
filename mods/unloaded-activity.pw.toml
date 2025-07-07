@@ -1,13 +1,13 @@
 name = "Unloaded Activity"
-filename = "unloadedactivity-v0.6.6+1.21.4.jar"
+filename = "unloadedactivity-v0.6.7+1.21.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/DdTKGLrf/unloadedactivity-v0.6.6%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/gH27s6Dt/unloadedactivity-v0.6.7%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "05834faf86952b9221c7ac32c27aa33ad01516890f83fec916d9010bbb0293e7cf7eb93931ba20a022e13c89769f4710d491802a9a5f0d5867e44561857e3791"
+hash = "f5efba653d6c1bc6a091bdd944dbef5866224fe5731a698f6c6cca0ea2e13acfd0720e646abbed5ee818e7ab7eb30b4cde0492aa399f33f21920e0472fba6d99"
 
 [update]
 [update.modrinth]
 mod-id = "Oo4rJCDP"
-version = "DdTKGLrf"
+version = "gH27s6Dt"
