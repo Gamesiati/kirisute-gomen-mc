@@ -1,6 +1,7 @@
 name = "Dynamic Lights"
 filename = "dynamiclights-v1.8.5-mc1.17x-1.21x-datapack.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/7YjclEGc/versions/yCdCPMZa/dynamiclights-v1.8.5-mc1.17x-1.21x-datapack.zip"

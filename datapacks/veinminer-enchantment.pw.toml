@@ -1,6 +1,7 @@
 name = "Veinminer Enchantment"
 filename = "Veinminer-Enchantment-1.2.3.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/4sP0LXxp/versions/3D1S0vgH/Veinminer-Enchantment-1.2.3.zip"
