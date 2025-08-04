@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "cc4ed974ee6fb59cd9175a01dd373a81bcdfe3e5c16efbb19707b407d205fec7"
+hash = "092d345d6777d3ba140088bb608be0ab3c70fe3383e7e7bc6f866d7d69a08ce5"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "950212eb27c2b1e5b046daec5b0eb13dd3cef8959040ebdd9e447272adaece6a"
+hash = "a71cf5f7bf4ae670c34b46c794f3277bb3f51bd2e02bd60a6bb1b8f221e8de23"
 metafile = true
 
 [[files]]
